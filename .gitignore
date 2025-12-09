@@ -1,0 +1,11 @@
+# Ignore simulation binaries
+*.vvp
+*.out
+
+# Ignore temp files
+*.log
+work/
+*.vcd    # optional (if too large)
+
+# VS Code files
+.vscode/
