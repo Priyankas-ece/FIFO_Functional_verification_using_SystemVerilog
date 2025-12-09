@@ -50,15 +50,15 @@ gtkwave dump.vcd
 ```
 
 ## 🧪 Verification Scenarios Covered
-✔ FIFO write test
-✔ FIFO read test
-✔ Full flag behavior
-✔ Empty flag behavior
-✔ Almost full / almost empty
-✔ Underflow
-✔ Overflow
-✔ Simultaneous read/write
-✔ Data integrity checks
+✔ FIFO write test   
+✔ FIFO read test   
+✔ Full flag behavior   
+✔ Empty flag behavior   
+✔ Almost full / almost empty   
+✔ Underflow   
+✔ Overflow   
+✔ Simultaneous read/write   
+✔ Data integrity checks   
 
 ## 📘 Testbench Flow
 1. Initialize FIFO signals
